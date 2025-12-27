@@ -1,0 +1,422 @@
+﻿Cve_Metro,Cve_mun,Nom_metro
+01.1.01,01001,Aguascalientes
+01.1.01,01005,Aguascalientes
+01.1.01,01011,Aguascalientes
+02.2.02,02001,Ensenada
+02.2.03,02002,Mexicali
+02.1.01,02004,Tijuana
+02.1.01,02005,Tijuana
+03.2.01,03003,La Paz
+03.2.02,03008,Los Cabos
+04.2.01,04002,Campeche
+05.1.04,05004,Saltillo
+05.1.02,05006,Monclova-Frontera
+05.1.02,05010,Monclova-Frontera
+05.1.01,05017,La Laguna
+05.1.02,05018,Monclova-Frontera
+05.1.03,05022,Piedras Negras
+05.1.03,05025,Piedras Negras
+05.1.04,05027,Saltillo
+05.3.05,05028,Sabinas
+05.1.04,05030,Saltillo
+05.1.02,05031,Monclova-Frontera
+05.3.05,05032,Sabinas
+05.1.01,05035,La Laguna
+06.3.02,06001,Tecomán
+06.1.01,06002,Colima-Villa de Álvarez
+06.1.01,06003,Colima-Villa de Álvarez
+06.3.02,06009,Tecomán
+06.1.01,06010,Colima-Villa de Álvarez
+07.1.02,07012,Tuxtla Gutiérrez
+07.1.02,07027,Tuxtla Gutiérrez
+07.1.01,07055,Tapachula
+07.1.02,07079,Tuxtla Gutiérrez
+07.1.02,07086,Tuxtla Gutiérrez
+07.1.01,07089,Tapachula
+07.1.02,07101,Tuxtla Gutiérrez
+07.1.01,07102,Tapachula
+08.1.01,08002,Chihuahua
+08.1.01,08004,Chihuahua
+08.1.01,08019,Chihuahua
+08.1.02,08021,Delicias
+08.3.04,08032,Hidalgo del Parral
+08.2.03,08037,Juárez
+08.1.02,08045,Delicias
+08.1.02,08055,Delicias
+08.3.04,08059,Hidalgo del Parral
+09.1.01,09002,Ciudad de México
+09.1.01,09003,Ciudad de México
+09.1.01,09004,Ciudad de México
+09.1.01,09005,Ciudad de México
+09.1.01,09006,Ciudad de México
+09.1.01,09007,Ciudad de México
+09.1.01,09008,Ciudad de México
+09.1.01,09009,Ciudad de México
+09.1.01,09010,Ciudad de México
+09.1.01,09011,Ciudad de México
+09.1.01,09012,Ciudad de México
+09.1.01,09013,Ciudad de México
+09.1.01,09014,Ciudad de México
+09.1.01,09015,Ciudad de México
+09.1.01,09016,Ciudad de México
+09.1.01,09017,Ciudad de México
+10.2.01,10005,Durango
+05.1.01,10007,La Laguna
+05.1.01,10012,La Laguna
+11.1.01,11007,Celaya
+11.1.01,11011,Celaya
+11.2.03,11015,Guanajuato
+11.2.04,11017,Irapuato
+11.1.02,11020,León
+11.3.05,11021,Moroleón-Uriangato
+16.1.01,11023,La Piedad-Pénjamo
+11.1.02,11025,León
+11.3.06,11026,Silao
+11.1.02,11031,León
+11.3.06,11037,Silao
+11.3.05,11041,Moroleón-Uriangato
+11.1.01,11044,Celaya
+12.2.02,12001,Acapulco
+12.1.01,12029,Chilpancingo
+16.3.05,12068,Lázaro Cárdenas
+12.1.01,12075,Chilpancingo
+13.3.03,13010,Atitalaquia
+09.1.01,13013,Ciudad de México
+13.1.02,13016,Tulancingo
+13.1.01,13039,Pachuca
+13.1.01,13048,Pachuca
+13.1.01,13051,Pachuca
+13.1.02,13056,Tulancingo
+09.1.01,13069,Ciudad de México
+13.3.03,13074,Atitalaquia
+13.1.02,13077,Tulancingo
+13.1.01,13082,Pachuca
+13.1.01,13083,Pachuca
+14.1.01,14039,Guadalajara
+14.3.03,14047,Ocotlán
+14.1.01,14051,Guadalajara
+14.3.03,14063,Ocotlán
+14.3.03,14066,Ocotlán
+14.1.02,14067,Puerto Vallarta
+14.1.01,14070,Guadalajara
+14.1.01,14097,Guadalajara
+14.1.01,14098,Guadalajara
+14.1.01,14101,Guadalajara
+14.1.01,14120,Guadalajara
+09.1.01,15002,Ciudad de México
+15.1.01,15005,Toluca
+15.3.03,15006,Tianguistenco
+09.1.01,15011,Ciudad de México
+15.3.03,15012,Tianguistenco
+09.1.01,15013,Ciudad de México
+15.3.02,15015,Ozumba
+15.1.01,15018,Toluca
+15.3.03,15019,Tianguistenco
+09.1.01,15020,Ciudad de México
+09.1.01,15022,Ciudad de México
+09.1.01,15023,Ciudad de México
+09.1.01,15024,Ciudad de México
+09.1.01,15025,Ciudad de México
+15.1.01,15027,Toluca
+09.1.01,15028,Ciudad de México
+09.1.01,15029,Ciudad de México
+09.1.01,15030,Ciudad de México
+09.1.01,15031,Ciudad de México
+09.1.01,15033,Ciudad de México
+09.1.01,15035,Ciudad de México
+09.1.01,15037,Ciudad de México
+09.1.01,15038,Ciudad de México
+09.1.01,15039,Ciudad de México
+15.3.03,15043,Tianguistenco
+09.1.01,15044,Ciudad de México
+09.1.01,15046,Ciudad de México
+15.1.01,15051,Toluca
+09.1.01,15053,Ciudad de México
+15.1.01,15054,Toluca
+15.1.01,15055,Toluca
+09.1.01,15057,Ciudad de México
+09.1.01,15058,Ciudad de México
+09.1.01,15059,Ciudad de México
+09.1.01,15060,Ciudad de México
+15.1.01,15062,Toluca
+15.1.01,15067,Toluca
+15.3.02,15068,Ozumba
+09.1.01,15069,Ciudad de México
+09.1.01,15070,Ciudad de México
+15.1.01,15072,Toluca
+15.1.01,15073,Toluca
+09.1.01,15075,Ciudad de México
+15.1.01,15076,Toluca
+09.1.01,15081,Ciudad de México
+09.1.01,15083,Ciudad de México
+09.1.01,15084,Ciudad de México
+15.1.01,15087,Toluca
+09.1.01,15089,Ciudad de México
+15.1.01,15090,Toluca
+09.1.01,15091,Ciudad de México
+09.1.01,15092,Ciudad de México
+09.1.01,15093,Ciudad de México
+15.3.02,15094,Ozumba
+09.1.01,15095,Ciudad de México
+15.3.03,15098,Tianguistenco
+09.1.01,15099,Ciudad de México
+09.1.01,15100,Ciudad de México
+15.3.03,15101,Tianguistenco
+09.1.01,15103,Ciudad de México
+09.1.01,15104,Ciudad de México
+15.1.01,15106,Toluca
+09.1.01,15108,Ciudad de México
+09.1.01,15109,Ciudad de México
+15.1.01,15115,Toluca
+15.1.01,15118,Toluca
+09.1.01,15120,Ciudad de México
+09.1.01,15121,Ciudad de México
+09.1.01,15122,Ciudad de México
+09.1.01,15125,Ciudad de México
+11.3.05,16020,Moroleón-Uriangato
+16.1.02,16022,Morelia
+16.1.03,16043,Zamora
+16.3.06,16045,Sahuayo
+16.3.05,16052,Lázaro Cárdenas
+16.1.02,16053,Morelia
+16.1.01,16069,La Piedad-Pénjamo
+16.3.06,16076,Sahuayo
+16.1.02,16088,Morelia
+16.2.04,16102,Uruapan
+16.1.03,16108,Zamora
+17.1.01,17002,Cuautla
+17.1.01,17004,Cuautla
+17.1.01,17006,Cuautla
+17.1.02,17007,Cuernavaca
+17.1.02,17008,Cuernavaca
+17.1.02,17009,Cuernavaca
+17.1.02,17011,Cuernavaca
+17.1.02,17018,Cuernavaca
+17.1.02,17020,Cuernavaca
+17.1.02,17028,Cuernavaca
+17.1.02,17029,Cuernavaca
+17.1.01,17030,Cuautla
+17.1.02,17034,Cuernavaca
+17.1.02,17035,Cuernavaca
+18.1.01,18008,Tepic
+18.1.01,18017,Tepic
+14.1.02,18020,Puerto Vallarta
+19.1.01,19006,Monterrey
+19.1.01,19009,Monterrey
+19.1.01,19010,Monterrey
+19.1.01,19012,Monterrey
+19.1.01,19018,Monterrey
+19.1.01,19019,Monterrey
+19.1.01,19021,Monterrey
+19.1.01,19025,Monterrey
+19.1.01,19026,Monterrey
+19.1.01,19031,Monterrey
+19.1.01,19039,Monterrey
+19.1.01,19041,Monterrey
+19.1.01,19045,Monterrey
+19.1.01,19046,Monterrey
+19.1.01,19048,Monterrey
+19.1.01,19049,Monterrey
+20.1.01,20023,Oaxaca
+20.3.02,20030,Juchitán
+20.3.02,20043,Juchitán
+20.1.01,20045,Oaxaca
+20.1.01,20063,Oaxaca
+20.1.01,20067,Oaxaca
+20.3.03,20079,Salina Cruz
+20.1.01,20083,Oaxaca
+20.1.01,20087,Oaxaca
+20.1.01,20091,Oaxaca
+20.1.01,20107,Oaxaca
+20.1.01,20115,Oaxaca
+20.3.04,20124,Tehuantepec
+20.1.01,20157,Oaxaca
+20.1.01,20174,Oaxaca
+20.1.01,20227,Oaxaca
+20.1.01,20293,Oaxaca
+20.3.03,20308,Salina Cruz
+20.1.01,20338,Oaxaca
+20.1.01,20342,Oaxaca
+20.1.01,20350,Oaxaca
+20.1.01,20375,Oaxaca
+20.1.01,20385,Oaxaca
+20.1.01,20390,Oaxaca
+20.1.01,20399,Oaxaca
+20.1.01,20403,Oaxaca
+20.1.01,20409,Oaxaca
+20.3.02,20441,Juchitán
+20.3.04,20515,Tehuantepec
+20.1.01,20519,Oaxaca
+20.1.01,20539,Oaxaca
+20.1.01,20553,Oaxaca
+20.1.01,20565,Oaxaca
+21.1.01,21001,Puebla-Tlaxcala
+21.1.01,21015,Puebla-Tlaxcala
+21.1.01,21034,Puebla-Tlaxcala
+21.1.01,21041,Puebla-Tlaxcala
+21.1.02,21048,San Martín Texmelucan
+21.3.05,21054,Teziutlán
+21.3.04,21071,Huauchinango
+21.1.02,21074,San Martín Texmelucan
+21.1.01,21090,Puebla-Tlaxcala
+21.3.04,21091,Huauchinango
+21.1.01,21106,Puebla-Tlaxcala
+21.1.01,21114,Puebla-Tlaxcala
+21.1.01,21119,Puebla-Tlaxcala
+21.1.02,21122,San Martín Texmelucan
+21.1.01,21125,Puebla-Tlaxcala
+21.1.02,21132,San Martín Texmelucan
+21.1.01,21136,Puebla-Tlaxcala
+21.1.01,21140,Puebla-Tlaxcala
+21.1.02,21143,San Martín Texmelucan
+21.1.03,21149,Tehuacán
+21.1.03,21156,Tehuacán
+21.1.01,21163,Puebla-Tlaxcala
+21.3.05,21174,Teziutlán
+21.1.01,21181,Puebla-Tlaxcala
+22.1.01,22006,Querétaro
+22.1.01,22008,Querétaro
+22.1.01,22011,Querétaro
+22.1.01,22014,Querétaro
+23.1.01,23003,Cancún
+23.2.02,23004,Chetumal
+23.1.01,23005,Cancún
+23.2.03,23008,Playa del Carmen
+24.3.03,24011,Rioverde
+24.3.02,24020,Matehuala
+24.3.03,24024,Rioverde
+24.1.01,24028,San Luis Potosí
+24.1.01,24035,San Luis Potosí
+24.3.02,24048,Matehuala
+25.2.02,25001,Los Mochis
+25.2.01,25006,Culiacán
+25.2.03,25012,Mazatlán
+26.3.05,26017,Caborca
+26.2.02,26018,Ciudad Obregón
+26.1.01,26025,Guaymas
+26.1.01,26029,Guaymas
+26.2.03,26030,Hermosillo
+26.2.04,26043,Nogales
+26.3.05,26047,Caborca
+27.1.01,27004,Villahermosa
+27.1.01,27013,Villahermosa
+28.1.02,28003,Tampico
+28.1.02,28009,Tampico
+28.2.04,28022,Matamoros
+28.2.05,28027,Nuevo Laredo
+28.1.01,28032,Reynosa
+28.1.01,28033,Reynosa
+28.1.02,28038,Tampico
+28.2.03,28041,Ciudad Victoria
+29.1.01,29001,Tlaxcala-Apizaco
+29.1.01,29002,Tlaxcala-Apizaco
+29.1.01,29003,Tlaxcala-Apizaco
+29.1.01,29005,Tlaxcala-Apizaco
+29.1.01,29009,Tlaxcala-Apizaco
+29.1.01,29010,Tlaxcala-Apizaco
+29.1.01,29011,Tlaxcala-Apizaco
+29.3.02,29013,Huamantla
+29.1.01,29015,Tlaxcala-Apizaco
+29.3.02,29016,Huamantla
+21.1.01,29017,Puebla-Tlaxcala
+29.1.01,29018,Tlaxcala-Apizaco
+21.1.01,29022,Puebla-Tlaxcala
+29.1.01,29024,Tlaxcala-Apizaco
+21.1.01,29025,Puebla-Tlaxcala
+29.1.01,29026,Tlaxcala-Apizaco
+21.1.01,29027,Puebla-Tlaxcala
+21.1.01,29028,Puebla-Tlaxcala
+21.1.01,29029,Puebla-Tlaxcala
+29.1.01,29031,Tlaxcala-Apizaco
+21.1.01,29032,Puebla-Tlaxcala
+29.1.01,29033,Tlaxcala-Apizaco
+29.1.01,29034,Tlaxcala-Apizaco
+29.1.01,29035,Tlaxcala-Apizaco
+29.1.01,29036,Tlaxcala-Apizaco
+29.1.01,29038,Tlaxcala-Apizaco
+29.1.01,29039,Tlaxcala-Apizaco
+21.1.01,29041,Puebla-Tlaxcala
+21.1.01,29042,Puebla-Tlaxcala
+29.1.01,29043,Tlaxcala-Apizaco
+21.1.01,29044,Puebla-Tlaxcala
+29.1.01,29048,Tlaxcala-Apizaco
+29.1.01,29049,Tlaxcala-Apizaco
+29.1.01,29050,Tlaxcala-Apizaco
+21.1.01,29051,Puebla-Tlaxcala
+21.1.01,29053,Puebla-Tlaxcala
+21.1.01,29054,Puebla-Tlaxcala
+29.1.01,29056,Tlaxcala-Apizaco
+21.1.01,29058,Puebla-Tlaxcala
+21.1.01,29059,Puebla-Tlaxcala
+29.1.01,29060,Tlaxcala-Apizaco
+30.1.07,30001,Xalapa
+30.3.08,30003,Acayucan
+30.1.04,30006,Orizaba
+30.1.02,30014,Córdoba
+30.1.07,30026,Xalapa
+30.1.06,30028,Veracruz
+30.1.04,30030,Orizaba
+30.1.07,30036,Xalapa
+30.1.07,30038,Xalapa
+30.1.01,30039,Coatzacoalcos
+30.1.05,30040,Poza Rica
+30.1.02,30044,Córdoba
+30.1.03,30048,Minatitlán
+30.1.03,30059,Minatitlán
+30.1.07,30065,Xalapa
+30.1.02,30068,Córdoba
+30.1.04,30074,Orizaba
+30.1.04,30081,Orizaba
+30.1.01,30082,Coatzacoalcos
+30.1.04,30085,Orizaba
+30.1.07,30087,Xalapa
+30.1.06,30090,Veracruz
+30.1.07,30092,Xalapa
+30.1.07,30093,Xalapa
+30.1.04,30098,Orizaba
+30.1.04,30099,Orizaba
+30.1.06,30100,Veracruz
+30.1.04,30101,Orizaba
+30.1.06,30105,Veracruz
+30.1.03,30108,Minatitlán
+30.1.02,30113,Córdoba
+30.1.04,30115,Orizaba
+30.3.08,30116,Acayucan
+30.1.04,30118,Orizaba
+30.1.03,30120,Minatitlán
+28.1.02,30123,Tampico
+30.1.05,30131,Poza Rica
+28.1.02,30133,Tampico
+30.1.04,30135,Orizaba
+30.1.07,30136,Xalapa
+30.1.04,30138,Orizaba
+30.1.04,30140,Orizaba
+30.3.08,30145,Acayucan
+30.1.05,30175,Poza Rica
+30.1.07,30182,Xalapa
+30.1.04,30185,Orizaba
+30.1.06,30193,Veracruz
+30.1.02,30196,Córdoba
+30.1.03,30199,Minatitlán
+30.1.01,30206,Coatzacoalcos
+31.1.01,31002,Mérida
+31.1.01,31013,Mérida
+31.1.01,31020,Mérida
+31.3.02,31021,Valladolid
+31.1.01,31038,Mérida
+31.1.01,31039,Mérida
+31.1.01,31041,Mérida
+31.1.01,31050,Mérida
+31.1.01,31063,Mérida
+31.1.01,31090,Mérida
+31.1.01,31093,Mérida
+31.1.01,31095,Mérida
+31.3.02,31099,Valladolid
+31.1.01,31100,Mérida
+31.1.01,31101,Mérida
+31.3.02,31102,Valladolid
+32.1.01,32017,Zacatecas-Guadalupe
+32.1.01,32032,Zacatecas-Guadalupe
+32.1.01,32050,Zacatecas-Guadalupe
+32.1.01,32056,Zacatecas-Guadalupe
+32.1.01,32057,Zacatecas-Guadalupe
